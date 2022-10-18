@@ -17,6 +17,17 @@
 		4CBD83842821AEF90015DC84 /* PlayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CBD83832821AEF90015DC84 /* PlayViewController.swift */; };
 		4CBD83862821AF120015DC84 /* HighScoreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CBD83852821AF120015DC84 /* HighScoreViewController.swift */; };
 		4CBD83882821AF2E0015DC84 /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CBD83872821AF2E0015DC84 /* SettingViewController.swift */; };
+		4CC58A6D285BAE9D00EAC4FB /* 87.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CC58A62285BAE9D00EAC4FB /* 87.png */; };
+		4CC58A6E285BAE9D00EAC4FB /* 57.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CC58A63285BAE9D00EAC4FB /* 57.png */; };
+		4CC58A6F285BAE9D00EAC4FB /* 29.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CC58A64285BAE9D00EAC4FB /* 29.png */; };
+		4CC58A70285BAE9D00EAC4FB /* 114.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CC58A65285BAE9D00EAC4FB /* 114.png */; };
+		4CC58A71285BAE9D00EAC4FB /* 40.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CC58A66285BAE9D00EAC4FB /* 40.png */; };
+		4CC58A72285BAE9D00EAC4FB /* 60.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CC58A67285BAE9D00EAC4FB /* 60.png */; };
+		4CC58A73285BAE9D00EAC4FB /* 80.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CC58A68285BAE9D00EAC4FB /* 80.png */; };
+		4CC58A74285BAE9D00EAC4FB /* 1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CC58A69285BAE9D00EAC4FB /* 1024.png */; };
+		4CC58A75285BAE9D00EAC4FB /* 58.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CC58A6A285BAE9D00EAC4FB /* 58.png */; };
+		4CC58A76285BAE9D00EAC4FB /* 120.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CC58A6B285BAE9D00EAC4FB /* 120.png */; };
+		4CC58A77285BAE9D00EAC4FB /* 180.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CC58A6C285BAE9D00EAC4FB /* 180.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +43,17 @@
 		4CBD83832821AEF90015DC84 /* PlayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayViewController.swift; sourceTree = "<group>"; };
 		4CBD83852821AF120015DC84 /* HighScoreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HighScoreViewController.swift; sourceTree = "<group>"; };
 		4CBD83872821AF2E0015DC84 /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
+		4CC58A62285BAE9D00EAC4FB /* 87.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 87.png; sourceTree = "<group>"; };
+		4CC58A63285BAE9D00EAC4FB /* 57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 57.png; sourceTree = "<group>"; };
+		4CC58A64285BAE9D00EAC4FB /* 29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 29.png; sourceTree = "<group>"; };
+		4CC58A65285BAE9D00EAC4FB /* 114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 114.png; sourceTree = "<group>"; };
+		4CC58A66285BAE9D00EAC4FB /* 40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 40.png; sourceTree = "<group>"; };
+		4CC58A67285BAE9D00EAC4FB /* 60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 60.png; sourceTree = "<group>"; };
+		4CC58A68285BAE9D00EAC4FB /* 80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 80.png; sourceTree = "<group>"; };
+		4CC58A69285BAE9D00EAC4FB /* 1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1024.png; sourceTree = "<group>"; };
+		4CC58A6A285BAE9D00EAC4FB /* 58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 58.png; sourceTree = "<group>"; };
+		4CC58A6B285BAE9D00EAC4FB /* 120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 120.png; sourceTree = "<group>"; };
+		4CC58A6C285BAE9D00EAC4FB /* 180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 180.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +94,7 @@
 				4CB2BA422818804000B1B1B2 /* Assets.xcassets */,
 				4CB2BA442818804000B1B1B2 /* LaunchScreen.storyboard */,
 				4CB2BA472818804000B1B1B2 /* Info.plist */,
+				4CC58A78285BAEF000EAC4FB /* AppIcons */,
 			);
 			path = Bubbles;
 			sourceTree = "<group>";
@@ -101,6 +124,24 @@
 				4CBD83872821AF2E0015DC84 /* SettingViewController.swift */,
 			);
 			path = Controller;
+			sourceTree = "<group>";
+		};
+		4CC58A78285BAEF000EAC4FB /* AppIcons */ = {
+			isa = PBXGroup;
+			children = (
+				4CC58A64285BAE9D00EAC4FB /* 29.png */,
+				4CC58A66285BAE9D00EAC4FB /* 40.png */,
+				4CC58A63285BAE9D00EAC4FB /* 57.png */,
+				4CC58A6A285BAE9D00EAC4FB /* 58.png */,
+				4CC58A67285BAE9D00EAC4FB /* 60.png */,
+				4CC58A68285BAE9D00EAC4FB /* 80.png */,
+				4CC58A62285BAE9D00EAC4FB /* 87.png */,
+				4CC58A65285BAE9D00EAC4FB /* 114.png */,
+				4CC58A6B285BAE9D00EAC4FB /* 120.png */,
+				4CC58A6C285BAE9D00EAC4FB /* 180.png */,
+				4CC58A69285BAE9D00EAC4FB /* 1024.png */,
+			);
+			path = AppIcons;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -161,8 +202,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4CC58A76285BAE9D00EAC4FB /* 120.png in Resources */,
+				4CC58A6F285BAE9D00EAC4FB /* 29.png in Resources */,
+				4CC58A6E285BAE9D00EAC4FB /* 57.png in Resources */,
+				4CC58A6D285BAE9D00EAC4FB /* 87.png in Resources */,
 				4CB2BA462818804000B1B1B2 /* LaunchScreen.storyboard in Resources */,
 				4CB2BA432818804000B1B1B2 /* Assets.xcassets in Resources */,
+				4CC58A73285BAE9D00EAC4FB /* 80.png in Resources */,
+				4CC58A71285BAE9D00EAC4FB /* 40.png in Resources */,
+				4CC58A70285BAE9D00EAC4FB /* 114.png in Resources */,
+				4CC58A77285BAE9D00EAC4FB /* 180.png in Resources */,
+				4CC58A72285BAE9D00EAC4FB /* 60.png in Resources */,
+				4CC58A74285BAE9D00EAC4FB /* 1024.png in Resources */,
+				4CC58A75285BAE9D00EAC4FB /* 58.png in Resources */,
 				4CB2BA412818803D00B1B1B2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
